@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://econintel.edgeone.app"><img src="https://img.shields.io/badge/live_project-econintel.edgeone.app-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EconIntel" /></a>
   <a href="https://www.linkedin.com/in/ansh-kashyap-045740338/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Anshk2009&style=for-the-badge&color=6366F1&label=profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -26,8 +25,8 @@ learned by breaking this one in production and having to explain why.
 
 ```yaml
 currently:  EconIntel — economics AI that cites its sources
-learning:   ML, systems design, and why my own CSP broke my hero animation
-constraint: JEE 2027. Every scope decision loses to it.
+learning:   ML, systems design, and Python
+constraint: JEE 2028.
 pronouns:   he/him
 ```
 
