@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Anshk2009">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:0EA5E9&height=170&section=header&text=Wassup!%20Ansh%20this%20side&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=building%20econintel%20and%20unitflick%20between%20physics%20problem%20sets&descAlignY=58&descSize=16" alt="Wassup! Ansh this side" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:0EA5E9&height=170&section=header&text=Wassup!%20Ansh%20this%20side&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=building%20Econintel%20and%20Unitflick%20between%20JEE%20Advanced%20problems&descAlignY=58&descSize=16" alt="Wassup! Ansh this side" />
   </a>
 </p>
 
@@ -20,13 +20,13 @@
 
 **JEE brat, AI enthusiast and academic weapon.**
 
-Grade 11 (PCM), prepping for JEE, and building [EconIntel](https://econintel.edgeone.app)
+Grade 11 (PCM), prepping for JEE, and building [EconIntel](https://econintel.edgeone.app) and Unitflick
 in the hours either side of it. Most of what I know about shipping software I
 learned by breaking this one in production and having to explain why.
 
 ```yaml
-currently:  EconIntel — economics AI that cites its sources
-            UnitFlick — convert any unit on any page, without being tracked
+currently:  EconIntel — Economic Reimagined by AI
+            UnitFlick — Convert any unit on any page, without being tracked
 learning:   ML, systems design, and Python
 constraint: JEE 2028.
 pronouns:   he/him
