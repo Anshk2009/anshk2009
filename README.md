@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Anshk2009">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:0EA5E9&height=170&section=header&text=Wassup!%20Ansh%20this%20side&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=building%20econintel%20between%20physics%20problem%20sets&descAlignY=58&descSize=16" alt="Wassup! Ansh this side" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:3B82F6,100:0EA5E9&height=170&section=header&text=Wassup!%20Ansh%20this%20side&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=building%20econintel%20and%20unitflick%20between%20physics%20problem%20sets&descAlignY=58&descSize=16" alt="Wassup! Ansh this side" />
   </a>
 </p>
 
@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://econintel.edgeone.app"><img src="https://img.shields.io/badge/live_project-econintel.edgeone.app-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="EconIntel" /></a>
+  <a href="https://github.com/Anshk2009/UnitFlick"><img src="https://img.shields.io/badge/extension-UnitFlick-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="UnitFlick" /></a>
   <a href="https://www.linkedin.com/in/ansh-kashyap-045740338/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
@@ -25,6 +26,7 @@ learned by breaking this one in production and having to explain why.
 
 ```yaml
 currently:  EconIntel — economics AI that cites its sources
+            UnitFlick — convert any unit on any page, without being tracked
 learning:   ML, systems design, and Python
 constraint: JEE 2028.
 pronouns:   he/him
@@ -52,14 +54,16 @@ statistical agencies.
 </td>
 <td width="50%" valign="top">
 
-#### [▣ AnshOS](https://github.com/Anshk2009/AnshOS) &nbsp;<img src="https://img.shields.io/github/languages/top/Anshk2009/AnshOS?style=flat-square&color=3B82F6&labelColor=050508" alt="top language" /> <img src="https://img.shields.io/github/stars/Anshk2009/AnshOS?style=flat-square&color=6366F1&labelColor=050508" alt="stars" />
+#### [◪ UnitFlick](https://github.com/Anshk2009/UnitFlick) &nbsp;<img src="https://img.shields.io/badge/manifest_v3-3B82F6?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3" /> <img src="https://img.shields.io/github/stars/Anshk2009/UnitFlick?style=flat-square&color=6366F1&labelColor=050508" alt="stars" />
 
-**My portfolio, rebuilt as a desktop OS.**
+**Highlight anything. Right-click. Converted.**
 
-Draggable windows, a live clock, and apps instead of a scrollbar. Because a
-personal site that scrolls is a personal site you forget.
+`20 km` becomes `12.43 mi`, `₹5,000` becomes `$60.24`. Seven unit categories
+computed entirely on your device, and the one network call it makes never
+learns what you converted.
 
-`vanilla JS` · `window manager from scratch` · `no framework`
+`no site-wide permissions` · `no message listener to forge` · `no API key`
+`zero dependencies` · **54 tests + an audit that fails the build**
 
 </td>
 </tr>
@@ -69,16 +73,11 @@ personal site that scrolls is a personal site you forget.
 
 ### 🛠️ Tech
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
@@ -106,8 +105,15 @@ personal site that scrolls is a personal site you forget.
 > comment was true the day it was written and nobody re-read it once there was
 > real data.
 
-Both are in [EconIntel's commit history](https://github.com/Anshk2009/Econintel/commits/main),
-written up properly. I'd rather leave the reasoning behind than a clean-looking log.
+> "It's safe, it goes through textContent" was true and still wrong. UnitFlick
+> was echoing whatever you highlighted straight back into its own UI — harmless
+> that day, one careless refactor from an XSS. Now a test fails if an error
+> message ever contains a `<`.
+
+Written up properly rather than quietly fixed — in
+[EconIntel's commit history](https://github.com/Anshk2009/Econintel/commits/main)
+and in [UnitFlick's security audit](https://github.com/Anshk2009/UnitFlick/blob/main/docs/security-audit-0.1.0.md).
+I'd rather leave the reasoning behind than a clean-looking log.
 
 ---
 
