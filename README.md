@@ -85,7 +85,7 @@ learns what you converted.
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshk2009&theme=github_dark&v=20260923" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshk2009&theme=github_dark&chart_color=3B82F6&v=20260923" alt="Profile summary" />
 </p>
 
 <p align="center">
