@@ -85,12 +85,12 @@ learns what you converted.
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshk2009&theme=github_dark" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshk2009&theme=github_dark&v=20260923" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshk2009&theme=github_dark" alt="Repos per language" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshk2009&theme=github_dark" alt="Most committed language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshk2009&theme=github_dark&v=20260923" alt="Repos per language" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshk2009&theme=github_dark&v=20260923" alt="Most committed language" />
 </p>
 
 ---
